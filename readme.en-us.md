@@ -1,4 +1,4 @@
-# Eterance's Toolbox (Web Toolbox)
+# codesay's Toolbox (Web Toolbox)
 
 [简体中文](https://github.com/Eterance/web-toolbox/blob/main/readme.md) | [繁體中文](https://github.com/Eterance/web-toolbox/blob/main/readme.zh-tw.md) | English
 

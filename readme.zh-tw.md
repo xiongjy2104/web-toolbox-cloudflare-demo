@@ -1,4 +1,4 @@
-# Eterance 的百寶箱 (web-toolbox)
+# codesay 的百寶箱 (web-toolbox)
 
 [简体中文](https://github.com/Eterance/web-toolbox/blob/main/readme.md) | 繁體中文 | [English](https://github.com/Eterance/web-toolbox/blob/main/readme.en-us.md)
 

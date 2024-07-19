@@ -11,7 +11,7 @@ class NavBar extends HTMLElement {
                 <div class="container">
                     <a class="navbar-brand logo-font self-main-color" href="/zh-tw/">
                         <img src="/resources/NFS11-256.png" class="site-icon" alt="Site Icon">
-                        Eterance 的百寶箱
+                        代码说 的百寶箱
                     </a>
         
                     <!-- 切換按鈕（適用於小屏幕設備）-->

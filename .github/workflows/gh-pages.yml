@@ -45,7 +45,7 @@ jobs:
       - name: Echo the combined string
         run: echo "/${GITHUB_REPOSITORY#*/}"
         shell: bash
-      - name: Replace <ProjectNamePlaceHolder> in main.js
+      - name: 代码说demo-tools
         run: |
           sed -i "0,/<ProjectNamePlaceHolder>/s//\/${GITHUB_REPOSITORY#*/}/" site/js/main.js
       - name: Replace urls in JS files

@@ -1,6 +1,6 @@
-# Eterance 的百宝箱 (web-toolbox)
+# 代码说 的百宝箱 (web-toolbox)
 
-简体中文 | [繁體中文](https://github.com/Eterance/web-toolbox/blob/main/readme.zh-tw.md) | [English](https://github.com/Eterance/web-toolbox/blob/main/readme.en-us.md)
+简体中文 | [English](https://github.com/Eterance/web-toolbox/blob/main/readme.en-us.md)
 
 ## 这是什么？
 
@@ -12,7 +12,6 @@
 
 Cloudflare Pages：[https://tools.eterance.com/](https://tools.eterance.com/) （推荐）
 
-Github Pages：[https://eterance.github.io/web-toolbox/](https://eterance.github.io/web-toolbox/)
 
 如何部署在 Cloudflare Pages 参见：[https://blog.eterance.com/articles/deploying-a-static-website-with-github-action-and-cloudflare-pages/](https://blog.eterance.com/articles/deploying-a-static-website-with-github-action-and-cloudflare-pages/)
 
